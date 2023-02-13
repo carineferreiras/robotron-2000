@@ -12,7 +12,7 @@
 }
 
 body {
-    background: url(FUNDO.jpg);
+    background: url(fundo.jpg);
     background-position: center center;
     background-size: cover cover;
     padding: 0;
